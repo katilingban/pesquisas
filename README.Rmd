@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# perquisas: Utilities to Perform Data Cleaning, Processing, and Analysis on Mozambique Health and Nutrition Surveys
+# pesquisas: Utilities to Perform Data Cleaning, Processing, and Analysis on Mozambique Health and Nutrition Surveys
 
 <!-- badges: start -->
 [![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
@@ -24,11 +24,11 @@ In 2019, UNICEF with the support of the European Union launched a 4-year nutriti
 
 ## Installation
 
-You can install the development version of `perquisas` from GitHub via `remotes`:
+You can install the development version of `pesquisas` from GitHub via `remotes`:
 
 ``` r
 if(!require(remotes)) install.packages("remotes")
-remotes::install_github("katilingban/perquisas")
+remotes::install_github("katilingban/pesquisas")
 ```
 
 ## Usage

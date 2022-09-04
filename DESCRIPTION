@@ -1,4 +1,4 @@
-Package: perquisas
+Package: pesquisas
 Type: Package
 Title: Utilities to Perform Data Cleaning, Processing, and Analysis on 
     Mozambique Health and Nutrition Surveys
@@ -20,6 +20,6 @@ Language: en-GB
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
-URL: https://katilingban.io/perquisas/, https://github.com/katilingban/perquisas
-BugReports: https://github.com/katilingban/perquisas/issues
+URL: https://katilingban.io/pesquisas/, https://github.com/katilingban/pesquisas
+BugReports: https://github.com/katilingban/pesquisas/issues
 
