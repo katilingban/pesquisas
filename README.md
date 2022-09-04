@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# perquisas: Utilities to Perform Data Cleaning, Processing, and Analysis on Mozambique Health and Nutrition Surveys
+# pesquisas: Utilities to Perform Data Cleaning, Processing, and Analysis on Mozambique Health and Nutrition Surveys
 
 <!-- badges: start -->
 
@@ -23,12 +23,12 @@ data analysis of these surveys.
 
 ## Installation
 
-You can install the development version of `perquisas` from GitHub via
+You can install the development version of `pesquisas` from GitHub via
 `remotes`:
 
 ``` r
 if(!require(remotes)) install.packages("remotes")
-remotes::install_github("katilingban/perquisas")
+remotes::install_github("katilingban/pesquisas")
 ```
 
 ## Usage
