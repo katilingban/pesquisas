@@ -1,0 +1,34 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# perquisas: Utilities to Perform Data Cleaning, Processing, and Analysis on Mozambique Health and Nutrition Surveys
+
+<!-- badges: start -->
+
+[![Lifecycle:
+experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![Project Status: WIP – Initial development is in progress, but there
+has not yet been a stable, usable release suitable for the
+public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+<!-- badges: end -->
+
+In 2019, UNICEF with the support of the European Union launched a 4-year
+nutrition programme aimed at contributing to recovery efforts for people
+in need in cyclone-affected districts of Mozambique. Since then, a
+series of surveys have been conducted by UNICEF and its partners in
+Mozambique to provide the data needed to monitor progress and assess
+change in health and nutrition outcomes. This package provides R
+utilities and tools for performing data cleaning, data processing, and
+data analysis of these surveys.
+
+## Installation
+
+You can install the development version of `perquisas` from GitHub via
+`remotes`:
+
+``` r
+if(!require(remotes)) install.packages("remotes")
+remotes::install_github("katilingban/perquisas")
+```
+
+## Usage

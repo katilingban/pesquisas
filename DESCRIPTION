@@ -1,0 +1,25 @@
+Package: perquisas
+Type: Package
+Title: Utilities to Perform Data Cleaning, Processing, and Analysis on 
+    Mozambique Health and Nutrition Surveys
+Version: 0.0.0.9000
+Authors@R: person(given = "Ernest", family = "Guevarra", 
+                  email = "ernest@guevarra.io", role = c("aut", "cre"),
+                  comment = c(ORCID = "0000-0002-4887-4415"))
+Description: In 2019, UNICEF with the support of the European Union launched a 
+    4-year nutrition programme aimed at contributing to recovery efforts for 
+    people in need in cyclone-affected districts of Mozambique. Since then, a 
+    series of surveys have been conducted by UNICEF and its partners in 
+    Mozambique to provide the data needed to monitor progress and assess change 
+    in health and nutrition outcomes. This package provides R utilities and 
+    tools for performing data cleaning, data processing, and data analysis of 
+    these surveys.
+License: GPL-3
+Encoding: UTF-8
+Language: en-GB
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+URL: https://katilingban.io/perquisas/, https://github.com/katilingban/perquisas
+BugReports: https://github.com/katilingban/perquisas/issues
+
