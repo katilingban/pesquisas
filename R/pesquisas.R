@@ -17,7 +17,20 @@
 #' @keywords internal
 #' @name perquisas
 #'
+#' @importFrom stringr str_split
+#' @importFrom dplyr bind_rows
+#'
+#'
 #
 ################################################################################
 "_PACKAGE"
 
+
+## quiets concerns of R CMD check on global variables
+# if(getRversion() >= "2.15.1") {
+#   utils::globalVariables(
+#     c(
+#       "id", "spid", "district", "ea_code", "geolocation"
+#     )
+#   )
+# }
