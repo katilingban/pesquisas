@@ -15,6 +15,9 @@ Description: In 2019, UNICEF with the support of the European Union launched a
     tools for performing data cleaning, data processing, and data analysis of 
     these surveys.
 License: GPL-3
+Imports:
+    stringr,
+    dplyr
 Encoding: UTF-8
 Language: en-GB
 LazyData: true

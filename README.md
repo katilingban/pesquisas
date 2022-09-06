@@ -10,6 +10,8 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 [![Project Status: WIP – Initial development is in progress, but there
 has not yet been a stable, usable release suitable for the
 public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![R-CMD-check](https://github.com/katilingban/pesquisas/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/katilingban/pesquisas/actions/workflows/R-CMD-check.yaml)
+[![CodeFactor](https://www.codefactor.io/repository/github/katilingban/pesquisas/badge)](https://www.codefactor.io/repository/github/katilingban/pesquisas)
 <!-- badges: end -->
 
 In 2019, UNICEF with the support of the European Union launched a 4-year
